@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/febineldhose/Desktop/ReactApp/biotics/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/febineldhose/Desktop/ReactApp/biotics/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Folly/folly/Optional.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Folly/folly/Portability.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Folly/folly/CPortability.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Folly/folly/Traits.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Folly/folly/Utility.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/febineldhose/Desktop/ReactApp/biotics/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

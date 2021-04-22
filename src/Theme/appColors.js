@@ -1,0 +1,13 @@
+export const appColors = {
+  TRANSPARENT: 'transparent',
+  SNOW_DRIFT: '#F7F9F8',
+  RED: '#FF0000',
+  WHITE: '#FFFFFF',
+  BLACK: '#000000',
+  SCIENCE_BLUE: '#0066DA',
+  HEADER_MAIN: '#4093F1',
+  TEXT_COLOR_1: '#343434',
+  LIGHT_BLUE: '#4093F1',
+  LIGHT_GRAY: '#E4E4E4',
+  THIN_LIGHT_GRAY: '#F7F7F7',
+};

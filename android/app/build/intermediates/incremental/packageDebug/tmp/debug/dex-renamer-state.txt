@@ -1,0 +1,4 @@
+#Thu Apr 22 01:43:42 IST 2021
+base.0=/Users/febineldhose/Desktop/ReactApp/biotics/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
